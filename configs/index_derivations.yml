@@ -1,0 +1,44 @@
+indexes:
+  NIFTY_50:
+    display_name: Nifty 50
+    exchange: NSE
+    country: IN
+    symbols:
+      - yahoo: "^NSEI"
+
+  NIFTY_BANK:
+    display_name: Nifty Bank
+    exchange: NSE
+    country: IN
+    symbols:
+      - yahoo: "^NSEBANK"
+
+  NIFTY_IT:
+    display_name: Nifty IT
+    exchange: NSE
+    country: IN
+    symbols:
+      - yahoo: "^CNXIT"
+
+  NIFTY_AUTO:
+    display_name: Nifty Auto
+    exchange: NSE
+    country: IN
+    symbols:
+      - yahoo: "^CNXAUTO"
+
+  NIFTY_PHARMA:
+    display_name:  Nifty Pharma
+    exchange: NSE
+    country: IN
+    symbols:
+      - yahoo: "^CNXPHARMA"
+
+  SENSEX:
+    display_name: Sensex
+    exchange: BSE
+    country: IN
+    symbols:
+      - yahoo: "^BSESN"
+
+

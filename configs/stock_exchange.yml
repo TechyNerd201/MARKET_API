@@ -1,0 +1,10 @@
+stock_exchange:
+  NATIONAL_STOCK_EXCHANGE:
+    abbrevation: NSE
+    country: IN
+    valid: true
+
+  BOMBAY_STOCK_EXCHANGE:
+    abbrevation: BSE
+    country: IN
+    valid: true
